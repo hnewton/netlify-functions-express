@@ -73,7 +73,7 @@ export default function expressApp(functionName) {
           name: 'steve',
         },
         {
-          name: 'joe',
+          name: 'larry',
         },
       ],
     })
